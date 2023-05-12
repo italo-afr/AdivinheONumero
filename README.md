@@ -1,4 +1,6 @@
 #Adivinhe_o_numero
+
+
 Jogo de adivinha, descubra qual o número que o site gerou, com reconhecimento de voz.
 Desenvolvido na linguagem JavaScript, junto com o HTML e CSS, utilizei o Web speech API.
 
