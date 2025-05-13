@@ -30,7 +30,6 @@ Este projeto foi desenvolvido utilizando **JavaScript**, **HTML**, **CSS** e a p
 ## 📷 Imagem do Projeto
 
 ![screenshot do jogo](https://adivinhe-o-numero-taupe.vercel.app/screenshot.png)  
-*Caso ainda não tenha uma imagem, você pode fazer o upload de um print do site com esse nome no repositório.*
 
 ---
 
